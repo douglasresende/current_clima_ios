@@ -1,0 +1,13 @@
+PODS:
+  - BRFlabbyTable (1.0.0)
+  - JSONKit (1.5pre)
+
+DEPENDENCIES:
+  - BRFlabbyTable (~> 1.0.0)
+  - JSONKit (~> 1.4)
+
+SPEC CHECKSUMS:
+  BRFlabbyTable: 584e91b7c731d311df1f03e0690fe9a73a71bb61
+  JSONKit: b1f52f3f522b8602307769511d4fb47c6f856159
+
+COCOAPODS: 0.31.1
